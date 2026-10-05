@@ -1,0 +1,20 @@
+{
+  "@@locale": "ar",
+  "viewAll": "عرض الكل",
+  "go_to_home": "الذهاب إلى الرئيسية",
+  "theme": "السمة",
+  "dark": "داكن",
+  "light": "فاتح",
+  "language": "اللغة",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "good_morning_here": "صباح الخير\nإليك بعض الأخبار لك",
+  "home": "الرئيسية",
+  "general": "عام",
+  "sports": "رياضة",
+  "business": "أعمال",
+  "technology": "تكنولوجيا",
+  "science": "علوم",
+  "entertainment": "ترفيه",
+  "health": "صحة"
+}

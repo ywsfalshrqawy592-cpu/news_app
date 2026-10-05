@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "viewAll": "View All",
+  "go_to_home" : "Go To Home",
+  "theme" : "Theme",
+  "dark" : "Dark",
+  "light" : "Light",
+  "language" : "Language",
+  "english" : "English",
+  "arabic" : "Arabic",
+  "good_morning_here" : " Good Morning\n Here is Some News For You",
+  "home" : "Home",
+  "general" : "General",
+  "sports" : "Sports",
+  "business" : "Business",
+  "technology" : "Technology",
+  "science" : "Science",
+  "entertainment" : "Entertainment",
+  "health" : "Health"
+}
