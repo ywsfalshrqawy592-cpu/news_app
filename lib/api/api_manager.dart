@@ -32,7 +32,6 @@ class ApiManager {
          {
            'apiKey' : ApiConstants.apiKey,
            'sources' : sourceId,
-           // 'q' : 'sport'
          }
        );
        var response = await http.get(url);
